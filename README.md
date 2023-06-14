@@ -1,1 +1,1 @@
-# Bachelors-Thesis
+# Clickbait Spoilers Classifiers
