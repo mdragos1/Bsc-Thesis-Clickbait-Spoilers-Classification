@@ -1,4 +1,4 @@
-# Clickbait Spoilers Classifiers
+# Bachelors Thesis: Clickbait Spoilers Classifiers
 
 Within the realm of social media, a significant presence of posts can be observed, strategically crafted to captivate readers and redirect their attention towards specific web pages.
 Termed as ”clickbait”, this prevailing practice relies heavily on the deployment of sensationalistic formulations, skillfully designed to pique the curiosity of individuals and entice
